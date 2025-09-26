@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm S Rahul</h1>
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3500&pause=1000&color=00F72E&vCenter=true&width=600&lines=Full+Stack+Web+Developer;Figma+ Designer;Web+Desinger;Open+Source+Contributor.;" alt="Typing SVG">
-</div>
+<h3 align="center">A passionate Full Stack Developer from India</h3>
 
 - 🌱 I’m currently learning **Next Js**
 
