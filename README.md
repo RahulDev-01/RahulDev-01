@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **s.rahul5116@gmail.com**
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahuldev-01&show_icons=true&locale=en&layout=compact" alt="rahuldev-01" /></p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -82,7 +82,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
   </a>
 </p>
-## 📊 GitHub Analytics
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+<h1 align="start">GitHub Analytics </h1>
 
 <div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rahuldev-01&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true&custom_title=Development+Activity" alt="GitHub Stats">
