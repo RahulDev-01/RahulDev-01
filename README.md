@@ -82,5 +82,14 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
   </a>
 </p>
+## 📊 GitHub Analytics
 
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rahuldev-01&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true&custom_title=Development+Activity" alt="GitHub Stats">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahuldev-01&layout=compact&theme=dracula&hide_border=true&langs_count=6" alt="Top Languages">
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahuldev-01&theme=dracula&area=true&hide_border=true&custom_title=Contribution+Timeline" alt="Contribution Graph">
+</div>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahuldev-01&" alt="rahuldev-01" /></p>
