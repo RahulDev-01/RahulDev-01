@@ -2,9 +2,9 @@
 <div align="center">
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
-- 🌱 I’m currently learning **Next Js**
+- 🌱 I’m currently learning **Next Js** and **Devops**
 
-- 📫 How to reach me **s.rahul5116@gmail.com**
+- 📫 How to reach me **s.rahul5116@gmail.com** and **https://savvana-rahul.tech** 
 
 
 
