@@ -84,7 +84,7 @@
   </a>
 </p>
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-<h1 align="start">GitHub Analytics </h1>
+<h1 align="start">GitHub Analytics : </h1>
 
 <div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rahuldev-01&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true&custom_title=Development+Activity" alt="GitHub Stats">
