@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Next Js** and **Devops**
 
--  How to reach me **s.rahul5116@gmail.com** and **https://savvana-rahul.tech** 
+-  How to reach me **s.rahul5116@gmail.com**  and **https://savvana-rahul.tech** 
 
 
 
